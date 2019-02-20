@@ -1,5 +1,6 @@
 # multivariate_linear_regression_inR
-Multivariate Linear Regression in R with PCA
+
+You will find three different models. One is multivariate linear regression model with 15+ predictors - it should be overfitted. Second one is another multivariate linear regression model with relavent predictors which I've found from the first model. The last model is a multivariate linear regression model with PCA values. 
 
 ## Data Description
 
