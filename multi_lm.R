@@ -121,3 +121,5 @@ R2 <- 1 - SSE/SStot
 R2 - (1 - R2)*4/(nrow(crime_data)-4-1) # 0.611
 
 ## R2 = 0.645 and R2_adj = 0.611
+
+## Conclustion: Since the size of the data is really small. The PCA regression model is under-performaing. However, if we have more data, it will work better. 
