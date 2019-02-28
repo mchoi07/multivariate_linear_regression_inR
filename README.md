@@ -1,6 +1,12 @@
-# multivariate_linear_regression_inR
+# multivariate_linear_regression_in R
 
-You will find three different models. One is multivariate linear regression model with 15+ predictors - it should be overfitted. Second one is another multivariate linear regression model with relavent predictors which I've found from the first model. The last model is a multivariate linear regression model with PCA values. 
+Using the data describe below, I fit the regression model with several different method. 
+
+* `multi_linear_regression.R` : This is just regular mult-regression model. I tested model in several ways. You can also see PCA technique - it didn't work well because of samll size of the data. 
+
+* `tree_regression.R` : 
+
+* `random_forest_regression.R` : 
 
 ## Data Description
 
