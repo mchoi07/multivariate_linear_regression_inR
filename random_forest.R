@@ -2,7 +2,7 @@
 # # # # Data Prep and manipulation # # # # 
 # # # #                            # # # #
 
-crime_data <- read.delim("/Users/mac/Google_drive/academic/georgia_tech/class_spring_2018/ISYE6501/week5_regression/data/uscrime.txt", header = TRUE)
+crime_data <- read.delim("uscrime.txt", header = TRUE)
 # crime_data <- read.table("uscrime.txt, stringsAsFactors = FALSE, header = TRUE)
 
 head(crime_data)
