@@ -4,9 +4,11 @@ Using the data describe below, I fit the regression model with several different
 
 * `multi_linear_regression.R` : This is just regular mult-regression model. I tested model in several ways. You can also see PCA technique - it didn't work well because of samll size of the data. 
 
-* `tree_regression.R` : 
+* `tree_regression.R` : In CART (Classification and Regression Trees), we could use tree model for a regression method. 
 
 * `random_forest_regression.R` : 
+
+* `stepwise_lasso_elasticNet.R` :
 
 ## Data Description
 
